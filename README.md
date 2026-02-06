@@ -1,14 +1,3 @@
-# Career Planning and Resume Mentor
 
-This project helps students plan careers and create professional resumes.
 
-## Run Locally
-
-Prerequisites: Node.js
-
-1. Install dependencies  
-   npm install
-
-2. Run the project  
-   npm run dev
-v
+View your app:https://ai.studio/apps/drive/1Cqw51fbvd0gj7-y9aFKah6nE77UYSYNt

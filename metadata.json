@@ -1,7 +1,0 @@
-{
-  "name": "Ascend AI: Your Career Mentor",
-  "description": "An all-in-one AI career planning and resume mentorship platform featuring real-time interview coaching, resume analysis, and personalized career roadmaps.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}

@@ -1,0 +1,8 @@
+
+{
+  "name": "VidyaGuide AI",
+  "description": "A premium AI-powered career planning dashboard for roadmap optimization, resume auditing, and mentorship.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
